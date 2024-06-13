@@ -7,10 +7,12 @@ Welcome to the Real-Time Quiz coding challenge! Your task is to create a technic
 ## Acceptance Criteria
 
 1. **User Participation**:
+
    - Users should be able to join a quiz session using a unique quiz ID.
    - The system should support multiple users joining the same quiz session simultaneously.
 
 2. **Real-Time Score Updates**:
+
    - As users submit answers, their scores should be updated in real-time.
    - The scoring system must be accurate and consistent.
 
@@ -31,9 +33,11 @@ Welcome to the Real-Time Quiz coding challenge! Your task is to create a technic
 ### Part 2: Implementation
 
 1. **Pick a Component**:
+
    - Implement one of the core components below using the technologies that you are comfortable with. The rest of the system can be mocked using mock services or data.
 
 2. **Requirements for the Implemented Component**:
+
    - **Real-time Quiz Participation**: Users should be able to join a quiz session using a unique quiz ID.
    - **Real-time Score Updates**: Users' scores should be updated in real-time as they submit answers.
    - **Real-time Leaderboard**: A leaderboard should display the current standings of all participants in real-time.
